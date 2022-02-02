@@ -2,6 +2,10 @@
 remote file created
 =======
 Change1 in RemoteFile
+<<<<<<< HEAD
 >>>>>>> origin/main
 
 Change2 in RemoteFile
+=======
+Change2 in RemoteFile
+>>>>>>> e8573d9301f7312059e7bd5f151d4742544987bb
