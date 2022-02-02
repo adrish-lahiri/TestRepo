@@ -9,3 +9,5 @@ Change2 in RemoteFile
 =======
 Change2 in RemoteFile
 >>>>>>> e8573d9301f7312059e7bd5f151d4742544987bb
+
+Change 3 in Remote File
