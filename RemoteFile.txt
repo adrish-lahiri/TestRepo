@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 remote file created
+=======
+Change1 in RemoteFile
+>>>>>>> origin/main
